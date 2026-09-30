@@ -22,4 +22,4 @@ gráfico. Estas características permiten desarrollar páginas más
 estructuradas y funcionales.
 
 Proyecto de GitHub:
-Pendiente de crear el repositorio.
+https://github.com/Andrey7-7-7/Laboratorio_3_1
